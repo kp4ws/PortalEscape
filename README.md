@@ -15,7 +15,7 @@
 - The player can climb the upward-arrow blocks.
 
 ## Link ##
-- I've uploaded this game to my Itch.io account where you can play it here: https://kpaws-games.itch.io/block-destroyer
+- I've uploaded this game to my Itch.io account where you can play it here: https://kpaws-games.itch.io/portal-escape
 
 ---
 #### Main Menu ####
