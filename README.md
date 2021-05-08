@@ -12,7 +12,7 @@
 ## Game Mechanics ##
 - When you reach a portal, it will teleport you to the next level.
 - Enemies move in a tracking motion either vertically or horizontally.
-- The player can climb the upward-arrow blocks.
+- The player can climb the arrow blocks.
 
 ## Link ##
 - I've uploaded this game to my Itch.io account where you can play it here: https://kpaws-games.itch.io/portal-escape
